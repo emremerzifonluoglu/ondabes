@@ -1,0 +1,28 @@
+.category{
+    background-color: #aaa;
+.list{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0px;
+    
+    .list-item{
+        background-color: #aaa;
+        list-style: none;
+        font-size: 20px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        width: 170px;
+        text-align: center;
+        
+        a{
+   
+            padding: 0px 20px;
+             text-decoration: none;
+             
+         }
+    }
+}
+}
+
